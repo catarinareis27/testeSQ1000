@@ -1,2 +1,2 @@
-cr1
-cr2 Catarina Reis 121212121 cr2@ipleiria.pt student
+cr1 Catarina Reis 111111111 cr1@ipleiria.pt staff
+cr2 Catarina Reis 121212121 cr2@ipleiria.pt student 
